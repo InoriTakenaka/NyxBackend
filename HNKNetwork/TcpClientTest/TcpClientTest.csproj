@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NyxNetwork\NyxNetwork.csproj" />
+    <ProjectReference Include="..\NyxTcpClient\NyxTcpClient.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,4 +2,5 @@
   <Project Path="NyxNetwork/NyxNetwork.csproj" />
   <Project Path="NyxServer/NyxServer.csproj" />
   <Project Path="NyxTcpClient/NyxTcpClient.csproj" Id="d8b67e97-1997-4e60-9184-41dc5743b9ab" />
+  <Project Path="TcpClientTest/TcpClientTest.csproj" Id="0021710e-c5e5-4eae-8c76-7226dc8fecff" />
 </Solution>
